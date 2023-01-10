@@ -7,4 +7,4 @@ There are 3 steps for the creation of trading strategy based on market sentiment
 Building a trading strategy based on market sentiment scores, news sentiment scores and corporate culture scores
 
 Final result on cumulative return and sharpe ratio from sentiment based trading strategy
-![image](https://user-images.githubusercontent.com/112449862/211521124-05e8239e-7e63-4e68-994e-0cdadd1da2f4.png)
+![image](https://user-images.githubusercontent.com/112449862/211521645-9b363c38-514f-4ac5-a3a3-0e078c3f1127.png)
