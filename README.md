@@ -7,4 +7,4 @@ There are 3 steps required before the creation of trading strategy based on mark
 Building a trading strategy based on market sentiment scores, news sentiment scores and corporate culture scores
 
 Final result on cumulative return and sharpe ratio from sentiment based trading strategy
-![image](https://user-images.githubusercontent.com/112449862/212240282-dbabd946-41dc-42b6-ac85-74652dce3592.png)
+![image](https://user-images.githubusercontent.com/112449862/212240362-2419220d-327b-4093-83ca-8aafcde402af.png)
