@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Event Id="5202512" lastUpdate="Friday, January 30, 2015 at 7:50:51pm GMT" eventTypeId="1" eventTypeName="Earning Conference Call/Presentation">
+  <EventStory Id="5202512.F" expirationDate="Friday, January 30, 2015 at 2:00:00pm GMT" action="publish" storyType="transcript" version="Final">
+    <Headline><![CDATA[Edited Transcript of TSN earnings conference call or presentation 30-Jan-15 2:00pm GMT]]></Headline>
+    <Body><![CDATA[Q1 2015 Tyson Foods Earnings Conference Call
+
+Springdale Jan 30, 2015 (Thomson StreetEvents) -- Edited Transcript of Tyson Foods Inc earnings conference call or presentation Friday, January 30, 2015 at 2:00:00pm GMT
+
+TEXT version of Transcript
+
+]]></Body>
+  </EventStory>
+  <eventTitle><![CDATA[Q1 2015 Tyson Foods Earnings Conference Call]]></eventTitle>
+  <city>Springdale</city>
+  <companyName>Tyson Foods Inc</companyName>
+  <companyTicker>TSN</companyTicker>
+  <startDate>30-Jan-15 2:00pm GMT</startDate>
+</Event>
